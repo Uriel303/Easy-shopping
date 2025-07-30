@@ -6,3 +6,12 @@
 <br>
 <br>
 <img src="https://github.com/Uriel303/Easy-shopping/blob/master/assets/eas02.png?raw=true">
+
+<p>As tecnologias utilizadas no desenvolvimento deste projeto foram:</p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style= "height: 20px; max-height: 30px; min-height: 40px;"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style= "height: 20px; max-height: 30px; min-height: 40px;">
+
+
+
+
